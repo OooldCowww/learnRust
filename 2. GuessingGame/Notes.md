@@ -11,3 +11,8 @@ Shadowing lets us reuse the guess variable name rather than forcing us to create
 
 ### Match
 Use `match` to handle `Ok` or `Err` of `Result` type.
+
+### Document
+> `$ cargo doc --open`
+
+Build documentation provided by all the dependencies locally and open it in browser.
